@@ -62,7 +62,7 @@ strong {
 
 /* Main */
 .main {
-    line-height: 1.3rem;
+    line-height: 1.4rem;
     font-size: 0.9rem;
 }
 
@@ -151,6 +151,11 @@ strong {
 
 .article__description-item--spaced {
     margin-bottom: 15px;
+}
+
+.article__description-item--after {
+    list-style-type: none;
+    margin-top: -8px;
 }
 
 .skill-article {
